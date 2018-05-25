@@ -1,0 +1,11 @@
+{
+  "name": "poundandgrain/ajax-thumbnail-rebuild",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/poundandgrain/ajax-thumbnail-rebuild",
+  "license": "private",
+  "description": "Fork of https://github.com/breiti/ajax-thumbnail-rebuild",
+  "keywords": ["plugin","wordpress"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
